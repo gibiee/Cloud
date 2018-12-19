@@ -12,10 +12,10 @@
 특정 키워드를 클릭하면 해당 키워드의 일자별 언급 횟수 변화가 꺽은선 그래프로 표시됩니다.
 
 ## 프로젝트 구현 이미지
-<img src="https://github.com/gibiee/Twitter_Crawling/blob/master/img/구동샘플.jpg"></img>
+<img src="https://github.com/gibiee/Twitter_Crawling/blob/master/img/구동샘플.jpg" width="70%" height="70%"></img>
 
 순위표의 특정 키워드를 클릭할 시 다음과 같은 꺽은선 그래프가 표시됨.
-<img src="https://github.com/gibiee/Twitter_Crawling/blob/master/img/꺽은선그래프.jpg"></img>
+<img src="https://github.com/gibiee/Twitter_Crawling/blob/master/img/꺽은선그래프.jpg" width="50%" height="50%"></img>
 
 
 ## 구성 파일별 소개
